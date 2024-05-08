@@ -21,7 +21,10 @@ To make sure that the optimal value is not due to random sampling, we repeatedly
 
 ## Authors
 
-P. Sabournia: @PejmanSa
-P.A. van Beek: @PablovanBeek
-K. Kunst: @Kamielk01
-G. Migliore: @GiuliMigliore
+P. Sabournia: [@PejmanSa](https://github.com/PejmanSa)
+
+P.A. van Beek: [@PablovanBeek](https://github.com/PablovanBeek)
+
+K. Kunst: [@Kamielk01](https://github.com/Kamielk01)
+
+G. Migliore: [@GiuliMigliore](https://github.com/GiuliMigliore)
