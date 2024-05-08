@@ -1,0 +1,3 @@
+## About the dataset
+
+The [GSM8K dataset](https://github.com/openai/gradeschool-math), developed by OpenAI, contains 8.5K high-quality math problems suitable for grade school, crafted by professional question writers. It's divided into 7.5K problems for training and 1K for testing. These questions, requiring 2 to 8 steps to solve, mainly involve basic arithmetic operations (e.g. addition, subtraction, multiplication, and division) to arrive at the answer, thus, the dataset requires the capability of a keen middle school student. The creation of GSM8K was guided by several key principles: high quality problems  made by humans; variety; moderate difficulty level; and solutions in natural language. 
